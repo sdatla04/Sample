@@ -37,6 +37,7 @@ namespace Vidly082018.Models
 
         //Added the comment to the new branch feature that was created - 9/17/2018
 
+        // Made changes remotely
         // Making changes to raise a conflict
 
     }
