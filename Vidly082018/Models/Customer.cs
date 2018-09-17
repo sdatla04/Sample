@@ -32,8 +32,11 @@ namespace Vidly082018.Models
         [Display(Name = "Membership Type")]
         public byte MembershipTypeId { get; set; }
 
-        
-       
+        //Added to test GIT commit
+        public bool? IsValid { get; set; }
+
+
+
     }
 
 
