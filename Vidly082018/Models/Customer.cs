@@ -33,7 +33,7 @@ namespace Vidly082018.Models
         public byte MembershipTypeId { get; set; }
 
         //Added to test GIT commit
-        public bool? IsValid { get; set; }
+       // public bool? IsValid { get; set; }
 
 
 
