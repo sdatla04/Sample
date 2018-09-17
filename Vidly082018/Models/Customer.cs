@@ -35,6 +35,7 @@ namespace Vidly082018.Models
         //Added to test GIT commit
        // public bool? IsValid { get; set; }
 
+        //Added the comment to the new branch feature that was created - 9/17/2018
 
 
     }
