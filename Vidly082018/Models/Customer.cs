@@ -35,8 +35,14 @@ namespace Vidly082018.Models
         //Added to test GIT commit
        // public bool? IsValid { get; set; }
 
+        // Mimic the issue when changes are made to a wrong branch
+        // Added Changes in master , Committed and the 
 
+        //Added the comment to the new branch feature that was created - 9/17/2018
 
+        // Made changes remotely
+        // Made changes locally, to raise a conflict - Test 1
+        //Making changes to try GIt FETCH
     }
 
 
