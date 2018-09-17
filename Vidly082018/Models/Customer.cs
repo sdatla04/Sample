@@ -39,7 +39,7 @@ namespace Vidly082018.Models
 
         // Made changes remotely
         // Made changes locally, to raise a conflict - Test 1
-
+        //Making changes to try GIt FETCH
     }
 
 
